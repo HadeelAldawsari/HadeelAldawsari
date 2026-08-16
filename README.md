@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hadeel Aldawsari</h1>
 
-<!--
-**HadeelAldawsari/HadeelAldawsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Analytics Specialist | BI & Data Analytics | Data Visualization & Design</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Turning data into meaningful insights and clear visual stories.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩🏻‍💻 About Me
+
+- 📊 Specialized in Data Analytics & Business Intelligence
+- 📈 Interested in Data Visualization & Dashboard Design
+- 💻 Building and developing my skills in Programming & Web Development
+- 🎓 Background in Physics, Research & Data Analysis
+- 📍 Based in Riyadh, Saudi Arabia
+
+---
+
+## 🛠️ Skills & Tools
+
+- Tableau
+- Power BI
+- Python
+- SQL
+- Excel
+- Data Visualization
+- Business Intelligence
+- Data Analysis
+- HTML
+- CSS
+
+---
+
+## 🚀 Current Focus
+
+Currently expanding my technical skills in Web Development, Data Analytics, and building practical projects.
+
+---
